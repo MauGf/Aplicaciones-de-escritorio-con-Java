@@ -43,7 +43,7 @@ public class Ejercicio9 extends javax.swing.JFrame {
         jLabel1.setFont(new java.awt.Font("Dialog", 1, 24)); // NOI18N
         jLabel1.setText("Numero Palindromo");
 
-        jLabel2.setText("Ingrese un numero de 4 cifras:");
+        jLabel2.setText("Ingrese un numero de cualquier  cifra:");
 
         btnLimpiar.setBackground(new java.awt.Color(255, 153, 102));
         btnLimpiar.setText("Limpiar");
